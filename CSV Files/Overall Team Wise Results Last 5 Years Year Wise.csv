@@ -1,0 +1,111 @@
+Team,Year,Result,Batting 1st,Batting 2nd,Overall,Overall Percentage
+Australia,2016,lost,3,3,6,50.0
+Australia,2016,won,2,4,6,50.0
+Australia,2017,lost,3,0,3,60.0
+Australia,2017,won,1,1,2,40.0
+Australia,2018,lost,2,6,8,53.33
+Australia,2018,won,1,6,7,46.67
+Australia,2019,won,1,6,7,100.0
+Australia,2020,lost,2,3,5,55.56
+Australia,2020,won,3,1,4,44.44
+Australia,2021,lost,2,5,7,70.0
+Australia,2021,won,3,0,3,30.0
+Bangladesh,2016,lost,2,4,6,75.0
+Bangladesh,2016,won,1,1,2,25.0
+Bangladesh,2017,lost,2,4,6,85.71
+Bangladesh,2017,won,1,0,1,14.29
+Bangladesh,2018,lost,5,3,8,61.54
+Bangladesh,2018,won,3,2,5,38.46
+Bangladesh,2019,lost,1,1,2,66.67
+Bangladesh,2019,won,0,1,1,33.33
+Bangladesh,2020,lost,2,0,2,100.0
+Bangladesh,2021,lost,0,3,3,100.0
+England,2016,lost,5,0,5,55.56
+England,2016,won,1,3,4,44.44
+England,2017,lost,0,4,4,57.14
+England,2017,won,1,2,3,42.86
+England,2018,lost,4,1,5,55.56
+England,2018,won,3,1,4,44.44
+England,2019,lost,0,2,2,22.22
+England,2019,tied,0,1,1,11.11
+England,2019,won,2,4,6,66.67
+England,2020,lost,1,2,3,27.27
+England,2020,won,2,6,8,72.73
+England,2021,lost,1,3,4,36.36
+England,2021,won,2,5,7,63.64
+India,2016,lost,2,2,4,25.0
+India,2016,won,5,7,12,75.0
+India,2017,lost,3,1,4,30.77
+India,2017,won,6,3,9,69.23
+India,2018,lost,3,1,4,25.0
+India,2018,won,4,8,12,75.0
+India,2019,lost,5,2,7,43.75
+India,2019,won,3,6,9,56.25
+India,2020,lost,0,1,1,10.0
+India,2020,tied,2,0,2,20.0
+India,2020,won,3,4,7,70.0
+India,2021,lost,2,0,2,40.0
+India,2021,won,2,1,3,60.0
+New Zealand,2016,lost,1,1,2,20.0
+New Zealand,2016,won,6,2,8,80.0
+New Zealand,2017,lost,0,3,3,37.5
+New Zealand,2017,won,4,1,5,62.5
+New Zealand,2018,lost,4,5,9,75.0
+New Zealand,2018,won,2,1,3,25.0
+New Zealand,2019,lost,2,2,4,33.33
+New Zealand,2019,tied,1,0,1,8.33
+New Zealand,2019,won,5,2,7,58.33
+New Zealand,2020,lost,3,1,4,40.0
+New Zealand,2020,tied,0,2,2,20.0
+New Zealand,2020,won,1,3,4,40.0
+New Zealand,2021,lost,0,2,2,25.0
+New Zealand,2021,won,5,1,6,75.0
+Pakistan,2016,lost,4,3,7,50.0
+Pakistan,2016,won,3,4,7,50.0
+Pakistan,2017,lost,1,0,1,14.29
+Pakistan,2017,won,2,4,6,85.71
+Pakistan,2018,lost,2,0,2,13.33
+Pakistan,2018,won,10,3,13,86.67
+Pakistan,2019,lost,3,5,8,88.89
+Pakistan,2019,won,1,0,1,11.11
+Pakistan,2020,lost,3,0,3,42.86
+Pakistan,2020,won,1,3,4,57.14
+Pakistan,2021,lost,3,1,4,40.0
+Pakistan,2021,won,2,4,6,60.0
+South Africa,2016,lost,4,0,4,50.0
+South Africa,2016,won,0,4,4,50.0
+South Africa,2017,lost,3,1,4,44.44
+South Africa,2017,won,5,0,5,55.56
+South Africa,2018,lost,1,2,3,60.0
+South Africa,2018,won,1,1,2,40.0
+South Africa,2019,lost,1,1,2,25.0
+South Africa,2019,tied,0,1,1,12.5
+South Africa,2019,won,4,1,5,62.5
+South Africa,2020,lost,4,3,7,77.78
+South Africa,2020,won,2,0,2,22.22
+South Africa,2021,lost,5,2,7,58.33
+South Africa,2021,won,3,2,5,41.67
+Sri Lanka,2016,lost,8,5,13,92.86
+Sri Lanka,2016,won,0,1,1,7.14
+Sri Lanka,2017,lost,4,6,10,66.67
+Sri Lanka,2017,won,0,5,5,33.33
+Sri Lanka,2018,lost,3,1,4,50.0
+Sri Lanka,2018,won,1,3,4,50.0
+Sri Lanka,2019,lost,4,4,8,61.54
+Sri Lanka,2019,tied,1,0,1,7.69
+Sri Lanka,2019,won,4,0,4,30.77
+Sri Lanka,2020,lost,2,2,4,100.0
+Sri Lanka,2021,lost,4,1,5,83.33
+Sri Lanka,2021,won,1,0,1,16.67
+West Indies,2016,lost,2,1,3,33.33
+West Indies,2016,won,1,5,6,66.67
+West Indies,2017,lost,2,2,4,57.14
+West Indies,2017,won,1,2,3,42.86
+West Indies,2018,lost,3,7,10,76.92
+West Indies,2018,won,1,2,3,23.08
+West Indies,2019,lost,5,3,8,88.89
+West Indies,2019,won,0,1,1,11.11
+West Indies,2020,lost,1,1,2,50.0
+West Indies,2020,won,1,1,2,50.0
+West Indies,2021,lost,0,5,5,38.46
+West Indies,2021,won,4,4,8,61.54
